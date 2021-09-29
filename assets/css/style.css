@@ -68,18 +68,18 @@ body {
 ------------------------------------------*/
 
 /*
-.page-content, 
+.page-content,
 section { overflow: hidden; }*/
 
 /*
-    On Scroll Animations 
+    On Scroll Animations
 ------------------------------------------*/
 
 /*.animated { visibility: hidden; }
 .visible { visibility: visible; }*/
 
 /*
-    Spacing & Alignment 
+    Spacing & Alignment
 ------------------------------------------*/
 
 .roomy-100 {
@@ -1170,7 +1170,7 @@ Home Section style
 ==================*/
 
 .home {
-	background: url(../images/background/header.jpg) no-repeat bottom center;
+	background: url("/Users/barbaraletu/Documents/ECV/B2/Version control/dev/formation-git-template-html") no-repeat bottom center;
 	background-size: cover;
 	position: relative;
 }
